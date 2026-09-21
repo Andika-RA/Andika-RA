@@ -1,17 +1,15 @@
 <div align="center">
-  <h1>Andika Rafa Akbar</h1>
-  <p><b>Frontend-leaning Full-Stack Developer</b></p>
-  <p>Building clean interfaces for web and mobile. Passionate about modern tech, especially AI.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Andika%20Rafa%20Akbar&fontSize=38&fontColor=ffffff&desc=Frontend-heavy%20Full-Stack%20Developer%20%7C%20Web%2C%20Mobile%20%26%20AI&descSize=15&descAlignY=68&descAlign=50" width="100%" alt="Andika Rafa Akbar" />
 
   <p>
+    <a href="https://andikarfa.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-andikarfa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://id.linkedin.com/in/andikarafaakbar" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Andika%20Rafa%20Akbar-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="mailto:andikarafa1221@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Andika-RA">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Email-andikarafa1221@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -22,52 +20,26 @@
 
 ```typescript
 const andika = {
+  education: "Informatics @ UPNVJ",
   role: "Frontend-heavy Full-Stack Developer",
-  platforms: ["Web", "Mobile"],
-  stack: ["TypeScript", "JavaScript", "React", "Next.js", "Tailwind CSS", "Node.js"],
-  interests: ["Clean UI/UX", "AI Experiments", "Exploring modern tech"],
-  status: "Building projects and always down to learn new things"
+  crafting: ["Web Apps", "Mobile Interfaces"],
+  stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js"],
+  curiousAbout: ["AI & Machine Learning", "Emerging Tech"],
+  motto: "Still learning, still making."
 };
 ```
 
 ---
 
-### 🛠️ Stack & Tools
+### 🛠️ Tech & Tooling
 
-#### Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-#### AI & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AI_&_ML-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=next,react,ts,js,tailwind,html,css,nodejs,express,postgres,supabase,firebase,redis,mysql,kotlin,py,docker,git,github,figma,postman,vercel&perline=11&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
-### 📈 Activity
+### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Andika-RA&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
@@ -76,5 +48,5 @@ const andika = {
 ---
 
 <div align="center">
-  <sub>Simplicity, clean code, and continuous learning.</sub>
+  <i>"Still learning, still making."</i>
 </div>
