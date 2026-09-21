@@ -1,0 +1,24 @@
+PASS  A:lines<=60              (lines=24<=60)
+PASS  B:lebay-words            (no lebay words)
+INFO  C1:emoji<=1/line SKIPPED (python3 missing)
+PASS  C2:section-emoji<=2      (sections-with-emoji=0<=2)
+PASS  C3:shields<=2            (shields=0<=2)
+PASS  D1:no-const-andika       (const andika absent)
+PASS  D2:fences<=1-block       (fence-lines=0<=2)
+PASS  D3:kill-list-absent      (no stats/trophy/snake/counter/typing/skillicons)
+PASS  D4:motto==1              (motto count=1)
+PASS  D5:ascii<=60ch           (no ascii-art line >60ch)
+PASS  D6:tables<=3cols         (no table >3 cols)
+PASS  D7:no-style-bgcolor      (no style=/bgcolor)
+PASS  link https://andikarfa.vercel.app/ -> 200
+PASS  link https://andikarfa.vercel.app/projects/garapan-mobile -> 200
+PASS  link https://andikarfa.vercel.app/projects/hmif-money -> 200
+PASS  link https://andikarfa.vercel.app/projects/medkominfo-portal -> 200
+PASS  link https://andikarfa.vercel.app/projects/portfolio-website -> 200
+PASS  link https://id.linkedin.com/in/andikarafaakbar -> 999 (note: LinkedIn bot-block, human-alive, not dead)
+PASS  link https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/banner.svg -> 200
+PASS  E1:links-200             (all http links 200)
+PASS  E2:instagram-ok          (no malformed instagram)
+PASS  F:render-hint            (fences balanced, div 1/1 — render README preview to confirm)
+----
+RESULT: 0 gate(s) failing — GREEN
