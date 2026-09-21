@@ -40,9 +40,3 @@ const andika = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=next,react,ts,js,tailwind,html,css,nodejs,express,postgres,supabase,firebase,redis,mysql,kotlin,py,docker,git,github,figma,postman,vercel&perline=11&theme=dark" alt="Tech Stack" />
 </div>
-
----
-
-<div align="center">
-  <sub>⚡ Crafted with precision • <a href="https://andikarfa.vercel.app">andikarfa.vercel.app</a></sub>
-</div>
