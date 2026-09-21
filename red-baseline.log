@@ -1,0 +1,24 @@
+PASS  A:lines<=60              (lines=44<=60)
+FAIL  B:lebay-words            (lebay words must be absent) hits: 25:craft 43:Craft 
+INFO  C1:emoji<=1/line SKIPPED (python3 missing)
+PASS  C2:section-emoji<=2      (sections-with-emoji=2<=2)
+FAIL  C3:shields<=2            (shields=3>2) shields=3
+FAIL  D1:no-const-andika       (const andika absent) found 'const andika'
+PASS  D2:fences<=1-block       (fence-lines=2<=2)
+FAIL  D3:kill-list-absent      (kill-list widgets forbidden) hits: 37:skillicons.dev 
+PASS  D4:motto==1              (motto count=1)
+PASS  D5:ascii<=60ch           (no ascii-art line >60ch)
+PASS  D6:tables<=3cols         (no table >3 cols)
+PASS  D7:no-style-bgcolor      (no style=/bgcolor)
+PASS  link https://andikarfa.vercel.app -> 200
+FAIL  link https://id.linkedin.com/in/andikarafaakbar -> 999
+PASS  link https://img.shields.io/badge/Email-Get_in_Touch-000000?style=for-the-badge&logo=gmail&logoColor=white -> 200
+PASS  link https://img.shields.io/badge/LinkedIn-andikarafaakbar-000000?style=for-the-badge&logo=linkedin&logoColor=white -> 200
+PASS  link https://img.shields.io/badge/Live_Portfolio-andikarfa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white -> 200
+PASS  link https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/banner.svg -> 200
+PASS  link https://skillicons.dev/icons?i=next,react,ts,js,tailwind,html,css,nodejs,express,postgres,supabase,firebase,redis,mysql,kotlin,py,docker,git,github,figma,postman,vercel&perline=11&theme=dark -> 200
+FAIL  E1:links-200             (every http link must be 200)  https://id.linkedin.com/in/andikarafaakbar->999
+PASS  E2:instagram-ok          (no malformed instagram)
+PASS  F:render-hint            (fences balanced, div 3/3 — render README preview to confirm)
+----
+RESULT: 5 gate(s) failing — RED
