@@ -1,15 +1,25 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/banner.svg" width="100%" alt="Andika Rafa Akbar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/scenery-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/scenery-light.png">
+    <img src="https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/scenery-dark.png" width="100%" alt="Scenery Banner" />
+  </picture>
+
+  <br>
+
+  <h1>Hi, I'm Andika Rafa Akbar 👋</h1>
+  <p><b>Informatics Student @ UPNVJ • Jakarta, ID</b></p>
+  <p>Frontend-leaning Full-Stack developer building clean web &amp; mobile apps. Passionate about exploring modern tech, especially AI.</p>
 
   <p>
     <a href="https://andikarfa.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-andikarfa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-andikarfa.vercel.app-18181b?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://id.linkedin.com/in/andikarafaakbar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-andikarafaakbar-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-andikarafaakbar-18181b?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:andikarafa1221@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_in_Touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-andikarafa1221@gmail.com-18181b?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -40,5 +50,5 @@ const andika = {
 ---
 
 <div align="center">
-  <sub>⚡ Crafted with precision • <a href="https://andikarfa.vercel.app">andikarfa.vercel.app</a></sub>
+  <i>"Still learning, still making."</i>
 </div>
