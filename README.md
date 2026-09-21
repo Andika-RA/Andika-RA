@@ -1,44 +1,24 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andika-RA/Andika-RA/main/assets/banner.svg" width="100%" alt="Andika Rafa Akbar" />
-
-  <p>
-    <a href="https://andikarfa.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-andikarfa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://id.linkedin.com/in/andikarafaakbar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-andikarafaakbar-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:andikarafa1221@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_in_Touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 </div>
 
----
+Halo, saya Andika, mahasiswa Informatika yang membangun web dan aplikasi mobile.
+Saya lebih percaya demo daripada janji, jadi silakan cek [Garapan Mobile](https://andikarfa.vercel.app/projects/garapan-mobile), bug-nya sudah saya ajak damai sebelum rilis.
+Still learning, still making.
 
-### ⚡ Overview
+### Shipped
 
-```typescript
-const andika = {
-  education: "Informatics @ UPNVJ",
-  focus: "Frontend heavy, full-stack capable",
-  crafting: ["Web Apps", "Mobile Interfaces"],
-  stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js"],
-  curiousAbout: ["AI & Machine Learning", "Emerging Tech"],
-  motto: "Still learning, still making."
-};
-```
+- [Garapan Mobile](https://andikarfa.vercel.app/projects/garapan-mobile): native Android app for an IT freelancer marketplace.
+- [Medkominfo Portal](https://andikarfa.vercel.app/projects/medkominfo-portal): operations and service-request hub for multiple departments.
+- [HMIF Money](https://andikarfa.vercel.app/projects/hmif-money): financial management app for HMIF built on Google Apps Script.
+- [Portfolio Website](https://andikarfa.vercel.app/projects/portfolio-website): bilingual portfolio and CMS with custom visitor analytics.
 
----
+### Stack
 
-### 🛠️ Tech & Tooling
+TypeScript · React · Next.js · Tailwind CSS | Node.js · Prisma · Supabase · Firebase · GAS | Git · Figma
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,ts,js,tailwind,html,css,nodejs,express,postgres,supabase,firebase,redis,mysql,kotlin,py,docker,git,github,figma,postman,vercel&perline=11&theme=dark" alt="Tech Stack" />
-</div>
+### Now
 
----
+Now building an Ekraf dashboard (WIP, no link yet) and curious about AI/ML.
 
-<div align="center">
-  <sub>⚡ Crafted with precision • <a href="https://andikarfa.vercel.app">andikarfa.vercel.app</a></sub>
-</div>
+[Portfolio](https://andikarfa.vercel.app/) · [LinkedIn](https://id.linkedin.com/in/andikarafaakbar)
